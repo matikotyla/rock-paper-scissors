@@ -6,4 +6,4 @@ This is a simple Rock Paper Scissors game made by using React. You can clone thi
 
 ### How does it look like?
 
-![](https://github.com/maticoder/https://github.com/maticoder/rock-paper-scissors/blob/master/how.gif)
+![](https://github.com/maticoder/rock-paper-scissors/blob/master/how.gif)
